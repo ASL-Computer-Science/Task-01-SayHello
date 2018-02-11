@@ -25,3 +25,6 @@ hs_err_pid*
 *.project
 *.classpath
 /bin/
+
+#MacOS info file
+.DS_Store
