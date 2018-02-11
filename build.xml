@@ -23,6 +23,7 @@
 
   <target name="test" depends="compile"/>
   	<test name="${test}/SayHelloTest">
+  	</test>
   </target>
 
 
