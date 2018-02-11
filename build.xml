@@ -23,7 +23,7 @@
 
   <target name="test" depends="compile"/>
   	<test name="${test}/SayHelloTest"/>
-  	<!-- -jar junit-platform-console-standalone-1.0.3.jar/>
+
   </target>
 
 
