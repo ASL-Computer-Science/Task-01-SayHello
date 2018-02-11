@@ -22,6 +22,7 @@
   </target>
 
   <target name="test" depends="compile">
+    <classpath location="${build}" />
   	<test name="SayHelloTest">
   	</test>
   </target>
